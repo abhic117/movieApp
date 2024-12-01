@@ -39,6 +39,7 @@ form {
     border-radius: 11px;
     display: flex;
     align-items: center;
+    padding-left: 5px;
 }
 
 input {
